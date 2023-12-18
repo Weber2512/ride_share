@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171963758250",
+    "project_id": "fir-auth-19e30",
+    "storage_bucket": "fir-auth-19e30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171963758250:android:b1d59fc150628dfd0982d3",
+        "android_client_info": {
+          "package_name": "com.example.ride_share"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvzF8nJHlcx_npCqZm8JGCsfuN6qTiVF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
